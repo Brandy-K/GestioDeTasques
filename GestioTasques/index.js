@@ -115,7 +115,6 @@ class App {
             tasca.nom = newNom;
         }
     }
-
     actualitzarLlista() {
         this.tasques.forEach(tasca => {
             console.log(tasca.mostrarInfoTasca());
