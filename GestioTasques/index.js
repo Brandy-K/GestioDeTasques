@@ -126,7 +126,6 @@ class App {
         console.log(this.tasques.length);
     }
 }
-
 // Test code
 const app = new App();
 
